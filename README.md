@@ -7,7 +7,7 @@ Code: https://github.com/adrianhajdin/project_shareme_social_media
 - fully responsive
 - Build out UI with Tailwind CSS
 - Google auth
-- Sanity for CMS
+- Sanity for CMS -0 Sanity schemas
 - Deploy - put on portfolio?
 
 - Create, edit, delete, save images
