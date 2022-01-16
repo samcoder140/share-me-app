@@ -2,6 +2,7 @@ import React from "react";
 import { Routes, Route, useNavigate } from "react-router-dom";
 import Login from "./components/Login";
 import Home from "./container/Home";
+//import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 
 const App = () => {
   return (
