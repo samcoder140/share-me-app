@@ -1,6 +1,7 @@
 # share-me-app
 
 Full stack social media React app (from tutorial) -- similar to Pinterest
+
 Deployed to: https://samshareme.netlify.app/
 
 YT: https://www.youtube.com/watch?v=1RHDhtbqo94&t=175s
