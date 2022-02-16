@@ -6,8 +6,8 @@ Simply login with a Google account and start sharing, searching, saving, comment
 
 Full stack social media React app (from tutorial) -- similar to Pinterest
 
-Source tutorial and code:
-YT: https://www.youtube.com/watch?v=1RHDhtbqo94&t=175s
+Source tutorial and code:  
+YT: https://www.youtube.com/watch?v=1RHDhtbqo94&t=175s  
 repo: https://github.com/adrianhajdin/project_shareme_social_media
 
 - Responsive and looks good on mobile
