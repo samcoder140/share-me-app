@@ -1,8 +1,10 @@
 # share-me-app
 
-Full stack social media React app (from tutorial) -- similar to Pinterest
-
 Deployed to: https://samshareme.netlify.app/
+
+Simply login with a Google account and start sharing, searching, saving, commenting on pins!
+
+Full stack social media React app (from tutorial) -- similar to Pinterest
 
 Source tutorial and code:
 YT: https://www.youtube.com/watch?v=1RHDhtbqo94&t=175s
